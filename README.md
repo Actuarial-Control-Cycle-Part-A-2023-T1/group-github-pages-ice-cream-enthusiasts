@@ -20,7 +20,7 @@ To access our full report, click [here](https://drive.google.com/file/d/19WwZomb
 
 ## Objectives<a id="Objectives"></a>
 The main objectives of our proposed program design is to create an effective and efficient 
-relocation program that reduces overall severity of natural disasters on Storslysia. Our aim is 
+relocation program that reduces overall costs of natural disasters on Storslysia. Our aim is 
 to promote relocation to individuals that live in high-risk areas whilst providing effective 
 coverage when a natural disaster does occur. Our program focuses on two key parts; a 
 relocation program and claim coverage. The relocation program allows individuals to be 
